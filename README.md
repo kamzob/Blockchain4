@@ -84,7 +84,7 @@ Valdo visas transakcijas be tarpininkų.
 
 <img width="1196" alt="Screenshot 2024-12-10 at 21 46 25" src="https://github.com/user-attachments/assets/f2a33e39-b5ce-4b40-9c37-a00b6997ac86">
 
-12. Tuomet tests folderyje susikuriame testu faila .js ir ten pasirasom testus ir gauname rezultatus:
+12. Tuomet tests folderyje susikuriame testu faila .js ir ten pasirasom testus ir gauname rezultatus (lokaliame tinkle):
      <img width="718" alt="Screenshot 2024-12-10 at 22 16 02" src="https://github.com/user-attachments/assets/e69ab3ed-793b-486d-986b-ef84654541f2">
 
 - `Turėtų sukurti bilietus su numatytais parametrais`: Tikrina, ar bilietai yra tinkamai inicializuoti (teisingi ID, kainos, savininkai ir galiojimas).
