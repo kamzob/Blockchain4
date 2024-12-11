@@ -112,6 +112,18 @@ Valdo visas transakcijas be tarpininkų.
    
 <img width="1331" alt="Screenshot 2024-12-11 at 04 30 24" src="https://github.com/user-attachments/assets/25c482e4-63bf-419c-8842-292b2a89160f">
 
+4. Prijunkime kitą account'ą, kuris neturi transakcijų ir turi 100 ETH:
 
+<img width="1201" alt="Screenshot 2024-12-11 at 04 32 36" src="https://github.com/user-attachments/assets/82b8a4b4-6414-43d5-8e13-afa2c150c716">
 
+<img width="333" alt="Screenshot 2024-12-11 at 04 33 05" src="https://github.com/user-attachments/assets/20b0a592-c60a-4559-8c5b-749cf6aa67e8">
 
+<img width="318" alt="Screenshot 2024-12-11 at 04 33 20" src="https://github.com/user-attachments/assets/c9c05f49-ee70-4911-98ee-f0ed90894a95">
+
+<img width="345" alt="Screenshot 2024-12-11 at 04 34 26" src="https://github.com/user-attachments/assets/95de0c1b-fa69-4d8a-9cf6-b055bde4be58">
+
+<img width="1341" alt="Screenshot 2024-12-11 at 04 35 14" src="https://github.com/user-attachments/assets/4153a203-afe2-4f52-ae1b-83c736859a95">
+
+4. Pabandykime nusipirkti bilieta, kurio id #0
+Nusipirkus bilietą, matome, kad Balansas sumažėjo 0.1 ETH. Taip pat atsirado galimybė grąžinti bilietą arba perleisti kitam klientui.
+<img width="1325" alt="Screenshot 2024-12-11 at 04 40 37" src="https://github.com/user-attachments/assets/96b237bb-c3d6-486d-bda2-f33f4c0ea76e">
