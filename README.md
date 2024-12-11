@@ -127,3 +127,7 @@ Valdo visas transakcijas be tarpininkų.
 4. Pabandykime nusipirkti bilieta, kurio id #0
 Nusipirkus bilietą, matome, kad Balansas sumažėjo 0.1 ETH. Taip pat atsirado galimybė grąžinti bilietą arba perleisti kitam klientui.
 <img width="1325" alt="Screenshot 2024-12-11 at 04 40 37" src="https://github.com/user-attachments/assets/96b237bb-c3d6-486d-bda2-f33f4c0ea76e">
+
+<img width="1201" alt="Screenshot 2024-12-11 at 04 44 17" src="https://github.com/user-attachments/assets/3a537714-a1e5-4599-a578-0c75b11805bf">
+
+<img width="1198" alt="Screenshot 2024-12-11 at 04 45 01" src="https://github.com/user-attachments/assets/1484437a-61d6-482c-a4b5-4dcad835d956">
