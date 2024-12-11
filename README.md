@@ -97,3 +97,21 @@ Valdo visas transakcijas be tarpininkų.
 - `Neturėtų leisti kitiems nei savininkui uždaryti rezervacijų`: Patikrina, ar tik savininkas gali uždaryti rezervacijas.
 - `Turėtų leisti savininkui išsiimti pajamas`: Tikrina, ar savininkas gali išimti surinktas pajamas po bilietų pardavimo.
 
+## Front-end 
+1. Susikuriam naują folderį darbo aplinkoje ir rašom `npm init -f`kad susikurtumėm package.json ir `npm install --save-dev parcel`
+   <img width="517" alt="Screenshot 2024-12-11 at 01 23 41" src="https://github.com/user-attachments/assets/9dc2859a-3b3e-4fe6-b2ed-88923080644c">
+
+<img width="499" alt="Screenshot 2024-12-11 at 01 27 25" src="https://github.com/user-attachments/assets/f4a95864-bb9e-4a9d-a4ac-b21685c85406">
+
+<img width="564" alt="Screenshot 2024-12-11 at 02 21 26" src="https://github.com/user-attachments/assets/91126f8a-036a-4849-af5a-2960f1127a81">
+
+2. `npm run start` paleidzia front-end'a:
+<img width="413" alt="Screenshot 2024-12-11 at 04 28 53" src="https://github.com/user-attachments/assets/021a409e-6082-4304-a4e2-ebf1fe386bd9">
+
+3. Susikūrus html, js, css failus turime puslapį:
+   
+<img width="1331" alt="Screenshot 2024-12-11 at 04 30 24" src="https://github.com/user-attachments/assets/25c482e4-63bf-419c-8842-292b2a89160f">
+
+
+
+
