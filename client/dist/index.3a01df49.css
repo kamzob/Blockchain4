@@ -1,0 +1,50 @@
+body {
+  background-color: #c03f3f;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #384754;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 10px 20px;
+  display: flex;
+  box-shadow: 0 2px 5px #0000001a;
+}
+
+.navbar .navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+#account {
+  color: #333;
+  font-size: 1rem;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#tickets {
+  flex-wrap: wrap;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  justify-content: center;
+  display: grid;
+}
+
+.card {
+  color: #f0f8ff;
+  background-color: #456179;
+  margin: 10px;
+}
+
+.card-body {
+  background-color: #456179;
+  margin: 10px;
+}
+/*# sourceMappingURL=index.3a01df49.css.map */
