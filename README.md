@@ -124,10 +124,33 @@ Valdo visas transakcijas be tarpininkų.
 
 <img width="1341" alt="Screenshot 2024-12-11 at 04 35 14" src="https://github.com/user-attachments/assets/4153a203-afe2-4f52-ae1b-83c736859a95">
 
-4. Pabandykime nusipirkti bilieta, kurio id #0
+4. Pabandykime nusipirkti bilieta, kurio id #1
 Nusipirkus bilietą, matome, kad Balansas sumažėjo 0.1 ETH. Taip pat atsirado galimybė grąžinti bilietą arba perleisti kitam klientui.
 <img width="1325" alt="Screenshot 2024-12-11 at 04 40 37" src="https://github.com/user-attachments/assets/96b237bb-c3d6-486d-bda2-f33f4c0ea76e">
 
 <img width="1201" alt="Screenshot 2024-12-11 at 04 44 17" src="https://github.com/user-attachments/assets/3a537714-a1e5-4599-a578-0c75b11805bf">
 
 <img width="1198" alt="Screenshot 2024-12-11 at 04 45 01" src="https://github.com/user-attachments/assets/1484437a-61d6-482c-a4b5-4dcad835d956">
+
+5. Pabandykime perleisti bilieta kitam account'ui, pvz:
+   
+<img width="1332" alt="Screenshot 2024-12-12 at 00 29 44" src="https://github.com/user-attachments/assets/0ccb2951-10b5-48cf-bdeb-50ab62867409" />
+
+
+<img width="1196" alt="Screenshot 2024-12-12 at 00 30 54" src="https://github.com/user-attachments/assets/bd379941-eb8d-47cd-93c4-0b222014a84f" />
+
+<img width="440" alt="Screenshot 2024-12-12 at 00 31 30" src="https://github.com/user-attachments/assets/d34e5072-dbdb-4d74-8c2f-33b41324628d" />
+
+Dabar bilietas mums nebepriklauso, rodo kad nupirktas kito asmens (kuriam perleidom):
+
+<img width="1336" alt="Screenshot 2024-12-12 at 00 31 38" src="https://github.com/user-attachments/assets/52f5638f-c15c-4a08-83ea-b20951bd6d92" />
+
+6. Pabandykime prisijungti į kito asmens paskyrą ir ten grąžinti bilietą:
+<img width="1324" alt="Screenshot 2024-12-12 at 00 34 52" src="https://github.com/user-attachments/assets/6887feb4-562e-4e09-af7f-99f57f96a0df" />
+
+Kaip matome, tapome šio bilieto savininku, todėl pabandykime grąžinti bilietą pardavėjui (turėtų pasipildyti sąskaita 0.1 ETH ir bilietas tapti negaliojančiu):
+
+   
+<img width="446" alt="Screenshot 2024-12-12 at 00 36 40" src="https://github.com/user-attachments/assets/c2fe4b1c-ef08-485e-ad55-161aac460b2a" />
+
+<img width="1325" alt="Screenshot 2024-12-12 at 00 37 01" src="https://github.com/user-attachments/assets/5974ed45-221d-4810-b875-8dc9f9ca4f16" />
