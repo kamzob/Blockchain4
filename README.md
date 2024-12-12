@@ -156,3 +156,12 @@ Kaip matome, tapome šio bilieto savininku, todėl pabandykime grąžinti biliet
 <img width="1325" alt="Screenshot 2024-12-12 at 00 37 01" src="https://github.com/user-attachments/assets/5974ed45-221d-4810-b875-8dc9f9ca4f16" />
 
 
+7. Sepolia testavimas
+   <img width="862" alt="Screenshot 2024-12-12 at 02 39 25" src="https://github.com/user-attachments/assets/cf5d8c54-1628-430b-b570-389da040caff" />
+   
+<img width="358" alt="Screenshot 2024-12-12 at 02 40 18" src="https://github.com/user-attachments/assets/a1436ede-f862-4caf-9cc7-e33af39dc86a" />
+
+   
+
+
+
